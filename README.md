@@ -1,10 +1,14 @@
 <div style="margin-bottom: 10rem;">
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+    <img src="https://github.com/gregol-PALOMA/gregol-PALOMA/assets/106928802/1bbf0161-6db0-400e-908b-4bc211d83df5" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+    <!--https://pin.it/7GcEhqQ img source-->
+    
+##
 
 <p align="left" width="20rem"> 
-    <h2>PALOMA GREGOL</h2>
+
+<h2>PALOMA GREGOL</h2>
     
-  I'm a IT technician who is still discovering wich path wanna go in IT area. In this profile you can follow the evolution of my studies in IT, especially in front-end.
+  I'm an IT technician who is still discovering which path i want to go in IT area, bring some fun in all the things i do is one of my personal mottoes.<br/> In this profile you can follow the evolution of my studies in IT, especially in front-end.
   </br>
   </br>
   Some technologies i like to use is:
