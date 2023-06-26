@@ -1,4 +1,4 @@
-# <p style="align:center;"><img width="80%" alt="WELCOME TO PALOMA GREGOL GITHUB" src="https://github.com/gregol-PALOMA/gregol-PALOMA/assets/106928802/d77a6e48-e860-463b-ba7e-8eac836eaa91.png"/></p>
+# <p style="align:center;"><img width="80%" alt="WELCOME TO PALOMA GREGOL GITHUB" src="https://github.com/gregol-PALOMA/gregol-PALOMA/assets/106928802/d77a6e48-e860-463b-ba7e-8eac836eaa91"/></p>
 
 ### About me
 *
