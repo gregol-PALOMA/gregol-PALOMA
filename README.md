@@ -8,7 +8,7 @@
 
 <h2>PALOMA GREGOL</h2>
     
-  I'm an IT technician from Brazil, who is still discovering which path i want to go in IT area. Bring some fun in all the things i do is one of my personal mottoes.<br/> In this profile you can follow the evolution of my studies in IT, especially in front-end.
+  I'm a Brazilian IT technician who is still exploring various paths within the technology field. Bring some fun in all the things i do is one of my personal mottoes.<br/> In this profile you can follow the evolution of my studies in IT, especially in front-end.
   </br>
   </br>
 
