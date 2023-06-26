@@ -5,7 +5,7 @@
 
 ##
 
-<div>
+<div style="display:flex;">
   <img style="height: 12rem; width: 30%;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregol-PALOMA&bg_color=30,6892d5,79d1c3&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&text_size=90">
   <img style="height: 12rem; width: 70%;" src="https://github-readme-stats.vercel.app/api?username=gregol-PALOMA&show_icons=true&bg_color=30,6892d5,79d1c3&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&text_size=90">
 </div>
