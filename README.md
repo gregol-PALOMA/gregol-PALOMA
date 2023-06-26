@@ -1,23 +1,45 @@
-<br />
-<div align="center">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+<div style="margin-bottom: 10rem;">
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
+<p align="left" width="20rem"> 
+    <h2>PALOMA GREGOL</h2>
+    
+  I'm a IT technician who is still discovering wich path wanna go in IT area. In this profile you can follow the evolution of my studies in IT, especially in front-end.
+  </br>
+  </br>
+  Some technologies i like to use is:
+  * PHP 🐘, 
+  * JS 🍵, 
+  * Java ☕.
+</p>
 
-  <h3 align="center">PALOMA GREGOL</h3>
+<p align="left">
+  📫 Contato: 
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="https://codepen.io/hum-hum" alt="codepen.io">
+  <img src="https://img.shields.io/badge/-Codepen.io-white?style=flat-square&labelColor=white&logo=codepen&logoColor=141010&link=https://codepen.io/hum-hum"/></a>
+</p>  
 </div>
 
+<br>
 
-### About me
-*
-
+#  
 ##
 
-<div style="display:flex;">
+<div align="center">
   <img style="height: 12rem; "  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregol-PALOMA&bg_color=30,6892d5,79d1c3&card_width:400&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&text_size=90">
   <img style="height: 12rem; " src="https://github-readme-stats.vercel.app/api?username=gregol-PALOMA&show_icons=true&bg_color=30,6892d5,79d1c3&card_width:400&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&text_size=90">
 </div>
 
-##
+
 
 
 <!--
