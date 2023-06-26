@@ -1,5 +1,5 @@
 <div style="margin-bottom: 10rem;">
-    <img src="https://github.com/gregol-PALOMA/gregol-PALOMA/assets/106928802/1bbf0161-6db0-400e-908b-4bc211d83df5" min-width="300px" max-width="300px" width="300px" heiht="280" align="right" alt="Computador iuriCode">
+    <img src="https://github.com/gregol-PALOMA/gregol-PALOMA/assets/106928802/1bbf0161-6db0-400e-908b-4bc211d83df5" min-width="300px" max-width="300px" width="300px" heiht="250" align="right" alt="Computador iuriCode">
     <!--https://pin.it/7GcEhqQ img source-->
     
 ##
