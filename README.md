@@ -1,5 +1,5 @@
 <div style="margin-bottom: 10rem;">
-    <img src="https://github.com/gregol-PALOMA/gregol-PALOMA/assets/106928802/1bbf0161-6db0-400e-908b-4bc211d83df5" min-width="100px" max-width="300px" width="280px" heiht="200" align="right" alt="Computador iuriCode">
+    <img src="https://github.com/gregol-PALOMA/gregol-PALOMA/assets/106928802/1bbf0161-6db0-400e-908b-4bc211d83df5" width="30%" height="35%" align="right" alt="Computador iuriCode">
     <!--https://pin.it/7GcEhqQ img source-->
     
 ##
@@ -35,9 +35,9 @@
 #  
 ##
 
-<div align="center">
-  <img style="height: 12rem; "  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregol-PALOMA&bg_color=30,6892d5,79d1c3&card_width:400&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&text_size=90">
-  <img style="height: 12rem; " src="https://github-readme-stats.vercel.app/api?username=gregol-PALOMA&show_icons=true&bg_color=30,6892d5,79d1c3&card_width:400&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&text_size=90">
+<div align="center" style="width: 100%;  height:30%">
+  <img style="width: 25%;  height: 90%;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregol-PALOMA&bg_color=30,6892d5,79d1c3&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&text_size=90">
+  <img style="width: 49%;  height: 90%;" src="https://github-readme-stats.vercel.app/api?username=gregol-PALOMA&show_icons=true&bg_color=30,6892d5,79d1c3&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&text_size=90">
 </div>
 
 
