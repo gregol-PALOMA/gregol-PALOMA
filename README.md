@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="https://codepen.io/hum-hum" alt="codepen.io">
-  <img src="https://img.shields.io/badge/-Codepen.io-white?style=flat-square&labelColor=white&logo=codepen&logoColor=141010&link=https://codepen.io/hum-hum"/></a>
+  <img target="_blank" src="https://img.shields.io/badge/-Codepen.io-white?style=flat-square&labelColor=white&logo=codepen&logoColor=141010&link=https://codepen.io/hum-hum"/></a>
 </p>  
 </div>
 
