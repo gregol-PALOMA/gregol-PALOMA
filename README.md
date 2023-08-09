@@ -33,8 +33,8 @@
 ##
 
 <div align="center" style="width: 100vh; ">
-  <img style="max-width: 23vh;  max-height: 5vh;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregol-PALOMA&bg_color=30,6892d5,79d1c3&title_color=fff&text_color=fff&count_private=true&text_size=30">
-  <img style="max-width: 23vh;  max-height: 40vh;" src="https://github-readme-stats.vercel.app/api?username=gregol-PALOMA&show_icons=true&bg_color=30,6892d5,79d1c3&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&text_size=30">
+  <img style="max-width: 23vh;  height: 25vh;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregol-PALOMA&count_private=true&bg_color=30,6892d5,79d1c3&title_color=fff&text_color=fff&text_size=30">
+  <img style="max-width: 23vh;  height: 25vh;" src="https://github-readme-stats.vercel.app/api?username=gregol-PALOMA&count_private=true&show_icons=true&bg_color=30,6892d5,79d1c3&title_color=fff&text_color=fff&include_all_commits=true&text_size=30">
 </div>
 
 
