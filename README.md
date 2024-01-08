@@ -17,11 +17,11 @@
 </p>
 
 <p align="left">
-  <a target="_blank" href="#" alt="Gmail">
+  <a target="_blank" href="paloma.alvarenga@proton.me" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a target="_blank" href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  <a target="_blank" href="www.linkedin.com/in/paloma-alvarenga-6b64532a5" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/paloma-alvarenga-6b64532a5" /></a>
 
   <a target="_blank" href="https://codepen.io/hum-hum" alt="codepen.io">
   <img src="https://img.shields.io/badge/-Codepen.io-white?style=flat-square&labelColor=white&logo=codepen&logoColor=141010&link=https://codepen.io/hum-hum"/></a>
@@ -34,7 +34,7 @@
 
 <div align="center" style="width: 100vh; ">
   <img style="max-width: 23vh;  height: 25vh;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregol-PALOMA&count_private=true&bg_color=30,6892d5,79d1c3&title_color=fff&text_color=fff&text_size=30">
-  <img style="max-width: 23vh;  height: 25vh;" src="https://github-readme-stats.vercel.app/api?username=gregol-PALOMA&count_private=true&show_icons=true&bg_color=30,6892d5,79d1c3&title_color=fff&text_color=fff&include_all_commits=true&text_size=30">
+<!--   <img style="max-width: 23vh;  height: 25vh;" src="https://github-readme-stats.vercel.app/api?username=gregol-PALOMA&count_private=true&show_icons=true&bg_color=30,6892d5,79d1c3&title_color=fff&text_color=fff&include_all_commits=true&text_size=30"> -->
 </div>
 
 
