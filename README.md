@@ -6,7 +6,7 @@
 
 <h2>PALOMA GREGOL</h2>
     
-  I'm a Brazilian IT technician still learning. Bring some fun in all the things i do is one of my personal mottoes.<br/> In this profile you can follow the evolution of my studies in IT, especially in front-end.
+  I'm a Brazilian IT technician still learning. Bring some fun in all the things i do is one of my personal mottoes.<br/> In this profile you can follow the evolution of my studies in IT.
   </br>
   </br>
 
